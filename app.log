@@ -1,0 +1,20 @@
+Sep. 07, 2024 5:15:55 PM com.example.DAO isQuestionStored
+INFORMATION: Question A question? exists: false
+Sep. 07, 2024 5:15:55 PM com.example.DAO isQuestionStored
+INFORMATION: Question What is the meaning of life? exists: false
+Sep. 07, 2024 5:15:55 PM com.example.DAO addQuestion
+INFORMATION: Question with answers added successfully: What is the meaning of life? test1, test2, test3
+Sep. 07, 2024 5:15:55 PM com.example.DAO getAnswersForQuestionText
+INFORMATION: Fetched 3 answers for question: What is the meaning of life?
+Sep. 07, 2024 5:15:55 PM com.example.DAO getAnswersForQuestionText
+INFORMATION: Fetched 2 answers for question: What is the capital of France?
+Sep. 07, 2024 5:15:55 PM com.example.DAO isQuestionStored
+INFORMATION: Question What is the capital of England? exists: false
+Sep. 07, 2024 5:15:55 PM com.example.DAO isQuestionStored
+INFORMATION: Question What is the capital of France? exists: true
+Sep. 07, 2024 5:15:55 PM com.example.DAO isQuestionStored
+INFORMATION: Question What is the capital of England? exists: false
+Sep. 07, 2024 5:15:55 PM com.example.DAO isQuestionStored
+INFORMATION: Question THIS STRING IS 256 CHARACTERS xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx? exists: false
+Sep. 07, 2024 5:15:55 PM com.example.DAO getAnswersForQuestionText
+INFORMATION: Fetched 0 answers for question: What is the meaning of life?
